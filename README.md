@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand370&label=Profile%20views&color=0e75b6&style=flat" alt="anand370" /> </p>
 
-- 🔭 I’m currently working on **mohandess and zerpin project**
+- 🔭 I’m currently working As **Node.js,React.js,Css,Html,C# Developer**
 
 - 👨‍💻 All of my projects are available at [Anand370](Anand370)
 
